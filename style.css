@@ -117,4 +117,21 @@ span#Leah {
     text-decoration:#000 underline 10px;
     text-underline-offset: 5px;
 }
+div.image {
+    margin-left: 70px;
+}
+
+div.img-credit {
+    margin-left: 70px;
+    color: brown;
+    font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+div.img-ref {
+    margin-left: 70px;
+    color: brown;
+    font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
+    font-size: 12px;
 
