@@ -104,4 +104,17 @@ div.heading {
 div.headingtwo {
     margin-top: -60px;
 }
+.author {
+    margin-left: 70px;
+}
+
+span#Leah {
+    color: #00bcfc;
+}
+
+.nav-link:hover {
+    color: #00bcfc;
+    text-decoration:#000 underline 10px;
+    text-underline-offset: 5px;
+}
 
