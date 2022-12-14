@@ -84,7 +84,7 @@ div.extras1 {
   display: flex;
 }
 
-span#exlink{
+span#exlink {
    color: #00bcfc;
 }
 
@@ -175,7 +175,7 @@ div.signup {
   margin-top: 15px;
 }
 
-div.more  {
+div.more {
   width: 800px; 
   margin-left: 70px;
   font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
