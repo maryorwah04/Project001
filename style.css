@@ -22,7 +22,7 @@ a {
 
 div.n-scientist {
   width: 100%;
-  font-family: "PT SERIF",Georgia, 'Times New Roman', Times, serif;
+  font-family: "PT SERIF", Georgia, 'Times New Roman', Times, serif;
   font-style: normal;
   font-size: xx-large;
   font-weight: 600;
@@ -42,7 +42,7 @@ div.price-sale1 {
 }
 
 #HPS {
-   color: azure;
+  color: azure;
 }
 
 .extras {
@@ -85,10 +85,10 @@ div.extras1 {
 }
 
 span#exlink {
-   color: #00bcfc;
+  color: #00bcfc;
 }
 
-div.lineone  {
+div.lineone {
   height: 1px;
   width: 100%;
   background-color: black;
